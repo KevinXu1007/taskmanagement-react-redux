@@ -1,4 +1,4 @@
-# taskmanagement-react-redux
+# task management
 
 ## Technical Summary
 - React.js with ES6
